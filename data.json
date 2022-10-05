@@ -1,0 +1,22 @@
+{"products":  [
+  {
+    "id": 1,
+    "name": "auto"
+  },
+  {
+    "id": 2,
+    "name": "moto"
+  },
+  {
+    "id": 4,
+    "name": "camioneta"
+  },
+  {
+    "id": 5,
+    "name": "colectivo"
+  },
+  {
+    "id": 6,
+    "name": "camioneta_4x4"
+  }
+] }
