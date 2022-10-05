@@ -83,5 +83,5 @@ class Container {
 }
 
 const test = new Container("./data.json")
-.getAll();
+
 module.exports = Container;
